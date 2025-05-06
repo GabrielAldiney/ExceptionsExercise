@@ -4,6 +4,15 @@ Este repositório contém a resolução de um exercício proposto no curso de Ja
 
 ---
 
+## 🎯Exercício proposto:
+![image](https://github.com/user-attachments/assets/2605d851-5616-4a42-be70-d1fc8ae0349a)
+
+## 🎯 Resultados esperados: 
+![image](https://github.com/user-attachments/assets/477b08cd-3dca-44e1-af6f-17b2f11ef56c)
+
+## 🎯 Resultado obtido: 
+![image](https://github.com/user-attachments/assets/2ca63dff-0d1b-41d8-94f9-ff4444002028)
+
 ## 📌 Descrição do Exercício
 
 Criar um programa que:
